@@ -17,7 +17,7 @@ To run the Swing Calculator locally, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/swing-calculator.git
+    gh repo clone muhammednawaf/swing-calculator-java
     ```
 
 2. Open the project in your preferred Java IDE (such as IntelliJ IDEA, Eclipse, or NetBeans).
